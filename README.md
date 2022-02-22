@@ -11,9 +11,10 @@ para ver la cantidad de ingresos recibidos. El administrador actualiza el proces
 de notificación para saber el avance de su proceso. La página debe de ser responsive para poderla ver desde el celular. 
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+
 Practicas
-  Toma de requerimientos
-  Crea tu buyer persona
-  Publico objetivo
-  Crea tu primer Wireframe UX
-  Ahora el UI
+   Toma de requerimientos
+   Crea tu buyer persona
+   Publico objetivo
+   Crea tu primer Wireframe UX
+   Ahora el UI
